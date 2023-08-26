@@ -33,6 +33,6 @@ def index():
     return HTML
 
 
-//Start the server:
+# Start the server:
 if __name__=='__main__':
     app.run(debug=True)
